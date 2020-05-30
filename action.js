@@ -52,3 +52,4 @@ function GEEKFORGEEKS()
 
     return true; 
 }
+console.log("Hello!");
